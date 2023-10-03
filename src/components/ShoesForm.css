@@ -1,0 +1,9 @@
+
+.Shoes_main_div{
+    padding: 30px;
+    margin-top: 30px;
+    border: 2px solid blue;
+    justify-content: space-around;
+    display: flex;
+    background-color: azure;
+}
